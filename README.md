@@ -31,7 +31,7 @@ A Next.js application that captures webcam feed and performs facial recognition 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ekpo-Emmanuel/voicera-test
 cd webcam-img
 ```
 
@@ -66,14 +66,3 @@ yarn dev
 ## Implementation Details
 
 For detailed information about the implementation, please see [the implementation documentation](docs/implementation.md).
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [face-api.js](https://github.com/justadudewhohacks/face-api.js/) for the face detection models
-- [Next.js](https://nextjs.org/) for the React framework
-- [Bootstrap](https://getbootstrap.com/) for responsive UI components
-# voicera-test
