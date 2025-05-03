@@ -80,7 +80,7 @@ const Header = () => {
                 <span>How it works</span>
               </Link>
               <a 
-                href="https://github.com/Ekpo-Emmanuel/voicera-test" 
+                href="https://github.com/yourusername/facial-recognition-app" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center px-3 py-2 bg-white text-blue-700 rounded-md font-medium hover:bg-blue-50 transition-colors"
