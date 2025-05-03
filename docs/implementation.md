@@ -79,7 +79,7 @@ The initial phase focused on setting up the project structure and implementing t
 
 ### UI Implementation
 
-1. **Bootstrap Styling**
+1. **Tailwind Styling**
    - Responsive container layout
    - Button controls for webcam and face detection
    - Cards for instructions and explanations
